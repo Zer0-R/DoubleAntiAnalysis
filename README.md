@@ -19,7 +19,7 @@ Using ```drcpusim```. The target malware is launched under a DynamoRIO client th
 
 ## Example of use
 ```
-DoubleAntiAnalysis.exe sample.exe
+>DoubleAntiAnalysis.exe sample.exe
 ```
 
 ![Result of sample execution on DAA](https://zupimages.net/up/19/20/9khc.jpg)

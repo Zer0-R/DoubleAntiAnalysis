@@ -11,9 +11,11 @@ This tool is not associated with the DAA methodology but is an example of implem
 
 ## Requirement
 IDA Pro 5.0
+
 Using the ```idag -B``` command for IDA to generate an .ASM. You can use another version by changing the name of this command in the Tool.cpp file.
 
 DynamoRio
+
 Using ```drcpusim```. The target malware is launched under a DynamoRIO client that monitors every instruction executed.
 
 
